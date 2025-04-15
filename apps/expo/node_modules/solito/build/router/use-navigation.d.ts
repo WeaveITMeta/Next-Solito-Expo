@@ -1,0 +1,2 @@
+export declare const useNavigation: () => import("@react-navigation/core").NavigationProp<import("@react-navigation/core").ParamListBase> | import("@react-navigation/core").NavigationContainerRef<import("@react-navigation/core").ParamListBase> | undefined;
+//# sourceMappingURL=use-navigation.d.ts.map

@@ -1,0 +1,7 @@
+/// <reference types="react" />
+declare const LinkingContext: import("react").Context<{
+    options: undefined;
+}>;
+declare let StackActions: any, getStateFromPath: any, getActionFromState: any;
+export { LinkingContext, StackActions, getStateFromPath, getActionFromState };
+//# sourceMappingURL=replace-helpers.web.d.ts.map

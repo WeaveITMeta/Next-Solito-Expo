@@ -1,0 +1,1 @@
+{"version":3,"file":"use-search-params.d.ts","sourceRoot":"","sources":["../../../src/app/navigation/use-search-params.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,uBAAuB,EAAE,MAAM,iBAAiB,CAAA;AAGzD,wBAAgB,eAAe,CAAC,IAAI,SAAS,MAAM,CAAC,MAAM,EAAE,MAAM,CAAC;eAGhD,MAAM,IAAI,KAAK,MAAM,GAAG,IAAI;kBACzB,MAAM,IAAI,KAAK,MAAM,EAAE;eAC1B,MAAM,IAAI,KAAK,OAAO;kCA0CxC"}

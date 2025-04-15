@@ -1,0 +1,1 @@
+{"version":3,"file":"use-next-router.web.js","sourceRoot":"","sources":["../../../src/app/navigation/use-next-router.web.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,IAAI,mBAAmB,EAAE,MAAM,iBAAiB,CAAA","sourcesContent":["export { useRouter as useNextAppDirRouter } from 'next/navigation'\n"]}

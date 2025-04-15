@@ -1,0 +1,1 @@
+{"version":3,"file":"use-next-router.js","sourceRoot":"","sources":["../../../src/app/navigation/use-next-router.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,MAAM,mBAAmB,GAAG,GAErB,EAAE,CAAC,SAAS,CAAA","sourcesContent":["import type { useRouter } from 'next/navigation'\n\nexport const useNextAppDirRouter = ():\n  | ReturnType<typeof useRouter>\n  | undefined => undefined\n"]}

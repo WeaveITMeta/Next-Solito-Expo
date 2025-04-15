@@ -1,0 +1,1 @@
+{"version":3,"file":"create-solito-image.d.ts","sourceRoot":"","sources":["../../src/image/create-solito-image.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,EAAE,aAAa,EAA6B,MAAM,OAAO,CAAA;AAEvE,OAAO,EAAE,gBAAgB,EAAE,MAAM,eAAe,CAAA;AAChD,OAAO,EAAE,cAAc,EAAE,MAAM,oBAAoB,CAAA;AAEnD,wBAAgB,iBAAiB,CAC/B,CAAC,SAAS,aAAa,CAAC,UAAU,CAAC,OAAO,cAAc,CAAC,CAAC,EAC1D,SAAS,EAAE,CAAC,gGAQb"}

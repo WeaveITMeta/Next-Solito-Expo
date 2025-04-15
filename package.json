@@ -1,0 +1,21 @@
+{
+  "name": "next-solito-expo-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "turbo run start",
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^1.10.12"
+  },
+  "dependencies": {
+    "react-native-reanimated": "^3.17.3"
+  }
+}
