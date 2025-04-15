@@ -1,4 +1,10 @@
 {
-  "compilerOptions": {},
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "shared-components": ["packages/shared-components/index.ts"],
+      "shared-utils": ["packages/shared-utils/index.ts"]
+    }
+  },
   "extends": "expo/tsconfig.base"
 }
