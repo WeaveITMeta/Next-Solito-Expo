@@ -1,1 +1,0 @@
-{"version":3,"file":"use-next-pathname.native.js","sourceRoot":"","sources":["../../../src/app/navigation/use-next-pathname.native.ts"],"names":[],"mappings":"AAAA,eAAe,GAAG,EAAE,CAAC,SAAS,CAAA","sourcesContent":["export default () => undefined\n"]}

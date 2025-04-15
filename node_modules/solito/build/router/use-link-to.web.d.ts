@@ -1,5 +1,0 @@
-/**
- * @deprecated imported from the wrong file. Use `use-link-to` instead.
- */
-export declare const useLinkTo: () => () => never;
-//# sourceMappingURL=use-link-to.web.d.ts.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"use-next-params.native.js","sourceRoot":"","sources":["../../../src/app/navigation/use-next-params.native.ts"],"names":[],"mappings":"AAAA,eAAe,GAAG,EAAE,CAAC,SAAS,CAAA","sourcesContent":["export default () => undefined\n"]}

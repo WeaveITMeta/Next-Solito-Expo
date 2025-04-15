@@ -1,4 +1,0 @@
-import type { NextRouter } from 'next/router';
-declare const parseNextPath: (from: Parameters<NextRouter['push']>[0]) => string;
-export { parseNextPath };
-//# sourceMappingURL=parse-next-path.d.ts.map

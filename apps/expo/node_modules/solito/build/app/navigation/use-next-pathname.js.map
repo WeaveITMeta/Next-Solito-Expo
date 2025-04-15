@@ -1,1 +1,0 @@
-{"version":3,"file":"use-next-pathname.js","sourceRoot":"","sources":["../../../src/app/navigation/use-next-pathname.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,iBAAiB,CAAA;AAE7C,eAAe,GAAG,EAAE,CAAC,WAAW,EAAE,CAAA","sourcesContent":["import { usePathname } from 'next/navigation'\n\nexport default () => usePathname()\n"]}
