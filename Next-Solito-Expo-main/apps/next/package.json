@@ -1,0 +1,32 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@expo/next-adapter": "^6.0.0",
+    "@shared/components": "*",
+    "@shared/pages": "*",
+    "@shared/utils": "*",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native-web": "~0.19.6",
+    "solito": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.0",
+    "@types/react": "18.2.20",
+    "@types/react-native": "~0.72.2",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^10.0.1",
+    "typescript": "5.1.6"
+  }
+}
